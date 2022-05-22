@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post | Academic</title>
+    <link>https://example.com/category/post/</link>
+      <atom:link href="https://example.com/category/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Post</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 May 2022 13:11:17 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Post</title>
+      <link>https://example.com/category/post/</link>
+    </image>
+    
+    <item>
+      <title>May 16 to 22</title>
+      <link>https://example.com/post/may-16-to-22/</link>
+      <pubDate>Sun, 22 May 2022 13:11:17 +0300</pubDate>
+      <guid>https://example.com/post/may-16-to-22/</guid>
+      <description>&lt;h1 id=&#34;the-universe-is-full-of-questions-that-you-will-never-answer-yet-there-are-also-ones-that-only-you-can-answer-when-the-truth-is-revealed-what-will-you-do&#34;&gt;The universe is full of questions that you will never answer. Yet&amp;hellip; there are also ones that only you can answer. When the truth is revealed, what will you do?&lt;/h1&gt;
+&lt;h2 id=&#34;okay-hello-again-i-added-quote-from-omori-game-to-not-to-do-so-common-so-lets-talk-about-personal-life&#34;&gt;Okay, Hello again, I added quote from OMORI game, to not to do so common. So let&amp;rsquo;s talk about Personal Life.&lt;/h2&gt;
+&lt;h3 id=&#34;omori&#34;&gt;OMORI&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s a cool game with strong plot, music and quotes (in the header of post one of them). Plot is about boy, that has Post-Traumatic Amnesia. He after the key moment, hid yourself in world of dreams, where everyone is happy. but in the end he must find path to get out from that world and face the reality or became depression version of himself that lives in hopes and dreames world&lt;/p&gt;
+&lt;h3 id=&#34;some-personal&#34;&gt;Some personal&lt;/h3&gt;
+&lt;p&gt;There is no special moments that I want to talk about. It&amp;rsquo;s so common: make labs, programms for Technology of Programms and write Reports about them. So it&amp;rsquo;s like I don&amp;rsquo;t have enough time for myself. Yeah, I guess so.&lt;/p&gt;
+&lt;p&gt;Conclusion: Previous week was terribly boring than another weeks. So my always companion is music.&lt;/p&gt;
+&lt;p&gt;Thanks for reading.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
