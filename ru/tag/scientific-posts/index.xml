@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific Posts | Academic</title>
-    <link>https//emirenru/github.io/ru/tag/scientific-posts/</link>
-      <atom:link href="https//emirenru/github.io/ru/tag/scientific-posts/index.xml" rel="self" type="application/rss+xml" />
+    <link>https//emirenru.github.io/ru/tag/scientific-posts/</link>
+      <atom:link href="https//emirenru.github.io/ru/tag/scientific-posts/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientific Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sun, 22 May 2022 13:11:32 +0300</lastBuildDate>
     <image>
-      <url>/https/emirenru/github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/https/emirenru.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Scientific Posts</title>
-      <link>https//emirenru/github.io/ru/tag/scientific-posts/</link>
+      <link>https//emirenru.github.io/ru/tag/scientific-posts/</link>
     </image>
     
     <item>
       <title>Научные Языки Программирования</title>
-      <link>https//emirenru/github.io/ru/post/scientific-programming-language/</link>
+      <link>https//emirenru.github.io/ru/post/scientific-programming-language/</link>
       <pubDate>Sun, 22 May 2022 13:11:32 +0300</pubDate>
-      <guid>https//emirenru/github.io/ru/post/scientific-programming-language/</guid>
+      <guid>https//emirenru.github.io/ru/post/scientific-programming-language/</guid>
       <description>&lt;p&gt;В компьютерном программировании научный язык программирования может относиться к двум степеням одного и того же понятия.&lt;/p&gt;
 &lt;p&gt;В широком смысле научный язык программирования - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C/C++ и Python[1] можно считать научными языками программирования.&lt;/p&gt;
 &lt;p&gt;В более широком смысле научный язык программирования - это тот, который разработан и оптимизирован для использования математических формул и матриц.[2] Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и синтаксисом самого языка.[3] Например, ни C++, ни Python не имеют встроенных типов матриц или функций для матричных арифметических операций (сложение, умножение и т.д.); вместо этого эта функциональность доступна через стандартные библиотеки. Научные языки программирования в более широком смысле включают ALGOL, APL, Fortran, J, Julia, Maple, MATLAB и R.[4][5]&lt;/p&gt;
@@ -46,9 +46,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>Как Писать Отчёты: Руководство</title>
-      <link>https//emirenru/github.io/ru/post/report-or-presentation/</link>
+      <link>https//emirenru.github.io/ru/post/report-or-presentation/</link>
       <pubDate>Mon, 16 May 2022 12:16:19 +0300</pubDate>
-      <guid>https//emirenru/github.io/ru/post/report-or-presentation/</guid>
+      <guid>https//emirenru.github.io/ru/post/report-or-presentation/</guid>
       <description>&lt;p&gt;Отчет - это документальный отчет, в котором представлены и/или обобщены факты о конкретном событии, теме или проблеме. Идея заключается в том, что люди, незнакомые с предметом, могут найти все, что им нужно знать, из хорошего отчета.&lt;/p&gt;
 &lt;p&gt;Отчеты позволяют легко ввести кого-то в курс дела, но на самом деле написать отчет совсем не просто. Итак, чтобы помочь вам понять, что делать, ниже мы представляем наш собственный небольшой отчет, посвященный написанию отчетов.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-отчет&#34;&gt;Что такое отчет?&lt;/h2&gt;
