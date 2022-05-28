@@ -4,114 +4,104 @@
   
   
   <url>
-    <loc>https//emirenru.github.io/en/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/"
+      href="/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/"
+      href="/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/talk/example-talk/"
+      href="/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/talk/example-talk/"
+      href="/talk/example-talk/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/event/"
+      href="/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/event/"
+      href="/event/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/recent-week-2/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/post/recent-week-2/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/post/recent-week-2/"
+      href="/ru/post/recent-week-2/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/post/recent-week-2/"
+      href="/post/recent-week-2/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/post/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/post/"
+      href="/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/post/"
+      href="/post/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/categories/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/categories/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/categories/"
+      href="/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/categories/"
+      href="/categories/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/category/scientific-post/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/category/scientific-post/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/category/scientific-post/"
+      href="/ru/category/scientific-post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/category/scientific-post/"
+      href="/category/scientific-post/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/tag/scientific-posts/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/tag/scientific-posts/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/tag/scientific-posts/"
+      href="/ru/tag/scientific-posts/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/tag/scientific-posts/"
+      href="/tag/scientific-posts/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/scientific-programming-language/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/post/scientific-programming-language/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/post/scientific-programming-language/"
+      href="/ru/post/scientific-programming-language/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/post/scientific-programming-language/"
+      href="/post/scientific-programming-language/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/tags/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/tags/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/tags/"
+      href="/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/tags/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
+      href="/tags/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -124,137 +114,147 @@
       href=""
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/may-16-to-22/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/tag/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/category/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/tag/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/category/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/category/courses/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/category/courses/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/category/courses/"
+      href=""
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/project/operating-systems/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/post/may-16-to-22/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/category/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/category/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/category/courses/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/project/operating-systems/"
+      href="/ru/category/courses/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/project/operating-systems/"
+      href="/category/courses/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/tag/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/project/operating-systems/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/tag/project/"
+      href="/ru/project/operating-systems/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/tag/project/"
+      href="/project/operating-systems/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/category/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/tag/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/category/project/"
+      href="/ru/tag/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/category/project/"
+      href="/tag/project/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/category/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/project/"
+      href="/ru/category/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/project/"
+      href="/category/project/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/report-or-presentation/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/post/report-or-presentation/"
+      href="/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/post/report-or-presentation/"
+      href="/project/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/category/scientific-posts/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/post/report-or-presentation/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/category/scientific-posts/"
+      href="/ru/post/report-or-presentation/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/category/scientific-posts/"
+      href="/post/report-or-presentation/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/may-9-to-15/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/category/weeks-report/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/tag/weeks-reports/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/post/markdown/</loc><lastmod>2022-05-10T11:21:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/post/week-may-2-to-may-8/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/tag/weeks-report/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https//emirenru.github.io/en/tag/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/category/scientific-posts/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/tag/git/"
+      href="/ru/category/scientific-posts/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/tag/git/"
+      href="/category/scientific-posts/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/category/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/post/may-9-to-15/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/category/weeks-report/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/weeks-reports/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/post/markdown/</loc><lastmod>2022-05-10T11:21:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/post/week-may-2-to-may-8/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/weeks-report/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/category/git/"
+      href="/ru/tag/git/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/category/git/"
+      href="/tag/git/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/choice/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/category/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/post/choice/"
+      href="/ru/category/git/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/post/choice/"
+      href="/category/git/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/tag/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/post/choice/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="/ru/post/choice/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/post/choice/"
+    /></url>
   <url>
-    <loc>https//emirenru.github.io/en/category/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/tag/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/last_week/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/category/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/post/last_week/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -266,76 +266,76 @@
       href=""
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/slides/"
+      href="/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/slides/"
+      href="/slides/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/slides/example/"
+      href="/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/slides/example/"
+      href="/slides/example/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https//emirenru.github.io/en/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/publication-type/1/"
+      href="/ru/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/publication-type/1/"
+      href="/publication-type/1/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/publication/example/"
+      href="/ru/publication/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/publication/example/"
+      href="/publication/example/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/publication_types/"
+      href="/ru/publication_types/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/publication_types/"
+      href="/publication_types/"
     /></url>
   <url>
-    <loc>https//emirenru.github.io/en/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https//emirenru.github.io/en/ru/publication/"
+      href="/ru/publication/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https//emirenru.github.io/en/publication/"
+      href="/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

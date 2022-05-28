@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weeks&#39; Reports | Academic</title>
-    <link>https//emirenru.github.io/en/tag/weeks-reports/</link>
-      <atom:link href="https//emirenru.github.io/en/tag/weeks-reports/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/weeks-reports/</link>
+      <atom:link href="/tag/weeks-reports/index.xml" rel="self" type="application/rss+xml" />
     <description>Weeks&#39; Reports</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 12:15:42 +0300</lastBuildDate>
     <image>
-      <url>/https/emirenru.github.io/en/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Weeks&#39; Reports</title>
-      <link>https//emirenru.github.io/en/tag/weeks-reports/</link>
+      <link>/tag/weeks-reports/</link>
     </image>
     
     <item>
       <title>May 9 to 15</title>
-      <link>https//emirenru.github.io/en/post/may-9-to-15/</link>
+      <link>/post/may-9-to-15/</link>
       <pubDate>Mon, 16 May 2022 12:15:42 +0300</pubDate>
-      <guid>https//emirenru.github.io/en/post/may-9-to-15/</guid>
+      <guid>/post/may-9-to-15/</guid>
       <description>&lt;h1 id=&#34;hello-again&#34;&gt;Hello, again!&lt;/h1&gt;
 &lt;p&gt;I am starting to write a second post about my last week. So what&amp;rsquo;s happened there:&lt;/p&gt;
 &lt;h2 id=&#34;lab&#34;&gt;lab&lt;/h2&gt;
