@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific Posts | Academic</title>
-    <link>https://example.com/tag/scientific-posts/</link>
-      <atom:link href="https://example.com/tag/scientific-posts/index.xml" rel="self" type="application/rss+xml" />
+    <link>https//emirenru/github.io/tag/scientific-posts/</link>
+      <atom:link href="https//emirenru/github.io/tag/scientific-posts/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientific Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 May 2022 13:11:32 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/https/emirenru/github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Scientific Posts</title>
-      <link>https://example.com/tag/scientific-posts/</link>
+      <link>https//emirenru/github.io/tag/scientific-posts/</link>
     </image>
     
     <item>
       <title>Scientific Programming Language</title>
-      <link>https://example.com/post/scientific-programming-language/</link>
+      <link>https//emirenru/github.io/post/scientific-programming-language/</link>
       <pubDate>Sun, 22 May 2022 13:11:32 +0300</pubDate>
-      <guid>https://example.com/post/scientific-programming-language/</guid>
+      <guid>https//emirenru/github.io/post/scientific-programming-language/</guid>
       <description>&lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
 &lt;p&gt;In a wide sense, a scientific programming language is a programming language that is used widely for computational science and computational mathematics. In this sense, C/C++ and Python[1] can be considered scientific programming languages.&lt;/p&gt;
 &lt;p&gt;In a stronger sense, a scientific programming language is one that is designed and optimized for the use of mathematical formula and matrices.[2] Such languages are characterized not only by the availability of libraries performing mathematical or scientific functions, but by the syntax of the language itself.[3] For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication etc); instead, this functionality is made available through standard libraries. Scientific programming languages in the stronger sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB and R.[4][5]&lt;/p&gt;
@@ -46,9 +46,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>How to Write a Report: A Guide</title>
-      <link>https://example.com/post/report-or-presentation/</link>
+      <link>https//emirenru/github.io/post/report-or-presentation/</link>
       <pubDate>Mon, 16 May 2022 12:16:19 +0300</pubDate>
-      <guid>https://example.com/post/report-or-presentation/</guid>
+      <guid>https//emirenru/github.io/post/report-or-presentation/</guid>
       <description>&lt;p&gt;A report is a nonfiction account that presents and/or summarizes the facts about a particular event, topic, or issue. The idea is that people who are unfamiliar with the subject can find everything they need to know from a good report.&lt;/p&gt;
 &lt;p&gt;Reports make it easy to catch someone up to speed on a subject, but actually writing a report is anything but easy. So to help you understand what to do, below we present a little report of our own, all about report writing.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-report&#34;&gt;What is a report?&lt;/h2&gt;

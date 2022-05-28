@@ -4,114 +4,104 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https//emirenru/github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https//emirenru/github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https//emirenru/github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https//emirenru/github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https//emirenru/github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
+      href="https//emirenru/github.io/event/"
     /></url>
   <url>
-    <loc>https://example.com/post/recent-week-2/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/post/recent-week-2/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/recent-week-2/"
+      href="https//emirenru/github.io/ru/post/recent-week-2/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/recent-week-2/"
+      href="https//emirenru/github.io/post/recent-week-2/"
     /></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/post/</loc><lastmod>2022-05-28T17:28:13+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https//emirenru/github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https//emirenru/github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/categories/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/categories/"
+      href="https//emirenru/github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/categories/"
+      href="https//emirenru/github.io/categories/"
     /></url>
   <url>
-    <loc>https://example.com/category/scientific-post/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/category/scientific-post/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/scientific-post/"
+      href="https//emirenru/github.io/ru/category/scientific-post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/scientific-post/"
+      href="https//emirenru/github.io/category/scientific-post/"
     /></url>
   <url>
-    <loc>https://example.com/tag/scientific-posts/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/tag/scientific-posts/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/scientific-posts/"
+      href="https//emirenru/github.io/ru/tag/scientific-posts/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/scientific-posts/"
+      href="https//emirenru/github.io/tag/scientific-posts/"
     /></url>
   <url>
-    <loc>https://example.com/post/scientific-programming-language/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/post/scientific-programming-language/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/scientific-programming-language/"
+      href="https//emirenru/github.io/ru/post/scientific-programming-language/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/scientific-programming-language/"
+      href="https//emirenru/github.io/post/scientific-programming-language/"
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/tags/</loc><lastmod>2022-05-22T13:11:32+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https//emirenru/github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
+      href="https//emirenru/github.io/tags/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -124,137 +114,147 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/post/may-16-to-22/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/courses/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/courses/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/courses/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/project/operating-systems/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/post/may-16-to-22/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/tag/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/category/personal-life/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/tag/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/category/post/</loc><lastmod>2022-05-22T13:11:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/category/courses/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/operating-systems/"
+      href="https//emirenru/github.io/ru/category/courses/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/operating-systems/"
+      href="https//emirenru/github.io/category/courses/"
     /></url>
   <url>
-    <loc>https://example.com/tag/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/project/operating-systems/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/project/"
+      href="https//emirenru/github.io/ru/project/operating-systems/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/project/"
+      href="https//emirenru/github.io/project/operating-systems/"
     /></url>
   <url>
-    <loc>https://example.com/category/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/tag/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/project/"
+      href="https//emirenru/github.io/ru/tag/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/project/"
+      href="https//emirenru/github.io/tag/project/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/category/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https//emirenru/github.io/ru/category/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https//emirenru/github.io/category/project/"
     /></url>
   <url>
-    <loc>https://example.com/post/report-or-presentation/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/project/</loc><lastmod>2022-05-22T13:06:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/report-or-presentation/"
+      href="https//emirenru/github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/report-or-presentation/"
+      href="https//emirenru/github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/category/scientific-posts/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/post/report-or-presentation/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/scientific-posts/"
+      href="https//emirenru/github.io/ru/post/report-or-presentation/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/scientific-posts/"
+      href="https//emirenru/github.io/post/report-or-presentation/"
     /></url>
   <url>
-    <loc>https://example.com/post/may-9-to-15/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/weeks-report/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/weeks-reports/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-10T11:21:17+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/week-may-2-to-may-8/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/weeks-report/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/category/scientific-posts/</loc><lastmod>2022-05-16T12:16:19+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/git/"
+      href="https//emirenru/github.io/ru/category/scientific-posts/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/git/"
+      href="https//emirenru/github.io/category/scientific-posts/"
     /></url>
   <url>
-    <loc>https://example.com/category/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/post/may-9-to-15/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/category/weeks-report/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/tag/weeks-reports/</loc><lastmod>2022-05-16T12:15:42+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/post/markdown/</loc><lastmod>2022-05-10T11:21:17+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/post/week-may-2-to-may-8/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/tag/weeks-report/</loc><lastmod>2022-05-10T11:20:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/tag/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/git/"
+      href="https//emirenru/github.io/ru/tag/git/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/git/"
+      href="https//emirenru/github.io/tag/git/"
     /></url>
   <url>
-    <loc>https://example.com/post/choice/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/category/git/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/choice/"
+      href="https//emirenru/github.io/ru/category/git/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/choice/"
+      href="https//emirenru/github.io/category/git/"
     /></url>
   <url>
-    <loc>https://example.com/tag/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/post/choice/</loc><lastmod>2022-05-05T22:44:53+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https//emirenru/github.io/ru/post/choice/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https//emirenru/github.io/post/choice/"
+    /></url>
   <url>
-    <loc>https://example.com/category/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/tag/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/last_week/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/category/lab/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/post/last_week/</loc><lastmod>2022-05-05T22:44:37+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https//emirenru/github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -266,76 +266,76 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https//emirenru/github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https//emirenru/github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https//emirenru/github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https//emirenru/github.io/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https//emirenru/github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https//emirenru/github.io/ru/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https//emirenru/github.io/publication-type/1/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https//emirenru/github.io/ru/publication/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https//emirenru/github.io/publication/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https//emirenru/github.io/ru/publication_types/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https//emirenru/github.io/publication_types/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https//emirenru/github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https//emirenru/github.io/ru/publication/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https//emirenru/github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

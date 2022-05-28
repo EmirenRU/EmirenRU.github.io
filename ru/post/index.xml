@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https//emirenru/github.io/ru/post/</link>
+      <atom:link href="https//emirenru/github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sat, 28 May 2022 17:28:13 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/https/emirenru/github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/ru/post/</link>
+      <link>https//emirenru/github.io/ru/post/</link>
     </image>
     
     <item>
       <title>Неделя 23-29 мая</title>
-      <link>https://example.com/ru/post/recent-week-2/</link>
+      <link>https//emirenru/github.io/ru/post/recent-week-2/</link>
       <pubDate>Sat, 28 May 2022 17:28:13 +0300</pubDate>
-      <guid>https://example.com/ru/post/recent-week-2/</guid>
+      <guid>https//emirenru/github.io/ru/post/recent-week-2/</guid>
       <description>&lt;h1 id=&#34;приветик&#34;&gt;Приветик.&lt;/h1&gt;
 &lt;h2 id=&#34;я-начинаю-писать-пост-о-моей-последней-неделе-теперь-на-русском&#34;&gt;Я начинаю писать пост о моей последней неделе. Теперь на Русском.&lt;/h2&gt;
 &lt;h3 id=&#34;усталость-или-нет&#34;&gt;Усталость или нет?&lt;/h3&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Научные Языки Программирования</title>
-      <link>https://example.com/ru/post/scientific-programming-language/</link>
+      <link>https//emirenru/github.io/ru/post/scientific-programming-language/</link>
       <pubDate>Sun, 22 May 2022 13:11:32 +0300</pubDate>
-      <guid>https://example.com/ru/post/scientific-programming-language/</guid>
+      <guid>https//emirenru/github.io/ru/post/scientific-programming-language/</guid>
       <description>&lt;p&gt;В компьютерном программировании научный язык программирования может относиться к двум степеням одного и того же понятия.&lt;/p&gt;
 &lt;p&gt;В широком смысле научный язык программирования - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C/C++ и Python[1] можно считать научными языками программирования.&lt;/p&gt;
 &lt;p&gt;В более широком смысле научный язык программирования - это тот, который разработан и оптимизирован для использования математических формул и матриц.[2] Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и синтаксисом самого языка.[3] Например, ни C++, ни Python не имеют встроенных типов матриц или функций для матричных арифметических операций (сложение, умножение и т.д.); вместо этого эта функциональность доступна через стандартные библиотеки. Научные языки программирования в более широком смысле включают ALGOL, APL, Fortran, J, Julia, Maple, MATLAB и R.[4][5]&lt;/p&gt;
@@ -62,9 +62,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>Как Писать Отчёты: Руководство</title>
-      <link>https://example.com/ru/post/report-or-presentation/</link>
+      <link>https//emirenru/github.io/ru/post/report-or-presentation/</link>
       <pubDate>Mon, 16 May 2022 12:16:19 +0300</pubDate>
-      <guid>https://example.com/ru/post/report-or-presentation/</guid>
+      <guid>https//emirenru/github.io/ru/post/report-or-presentation/</guid>
       <description>&lt;p&gt;Отчет - это документальный отчет, в котором представлены и/или обобщены факты о конкретном событии, теме или проблеме. Идея заключается в том, что люди, незнакомые с предметом, могут найти все, что им нужно знать, из хорошего отчета.&lt;/p&gt;
 &lt;p&gt;Отчеты позволяют легко ввести кого-то в курс дела, но на самом деле написать отчет совсем не просто. Итак, чтобы помочь вам понять, что делать, ниже мы представляем наш собственный небольшой отчет, посвященный написанию отчетов.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-отчет&#34;&gt;Что такое отчет?&lt;/h2&gt;
@@ -186,9 +186,9 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
     
     <item>
       <title>Что такое Git.</title>
-      <link>https://example.com/ru/post/choice/</link>
+      <link>https//emirenru/github.io/ru/post/choice/</link>
       <pubDate>Thu, 05 May 2022 22:44:53 +0300</pubDate>
-      <guid>https://example.com/ru/post/choice/</guid>
+      <guid>https//emirenru/github.io/ru/post/choice/</guid>
       <description>&lt;p&gt;Git — это система для управления версиями исходного кода программ. В статье мы познакомимся с её основными возможностями, покажем отличие от GitHub и объясним, зачем Git новичку. Ещё вы узнаете, с чего начать обучение и почему не стоит тратить время на альтернативные программы.&lt;/p&gt;
 &lt;h1 id=&#34;git--это-система-коммитов&#34;&gt;Git — это система коммитов&lt;/h1&gt;
 &lt;p&gt;Представьте ситуацию: геймер доходит до финала, проигрывает и возвращается к началу уровня — попадает в ближайшую контрольную точку игры, где разработчики разрешили сохраниться. Если мы уберём контрольные точки, после каждого проигрыша придётся начинать игру заново.&lt;/p&gt;
@@ -215,10 +215,10 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий — это хранилище с файлами всех изменений проекта. Оно позволяет вернуть проект в любое предыдущее состояние, когда программа стабильно работала&#34; srcset=&#34;
-               /ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp 400w,
-               /ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_df6b2cb1562eeaf0aedd35e449e9b556.webp 760w,
-               /ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp&#34;
+               /https/emirenru/github.io/ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp 400w,
+               /https/emirenru/github.io/ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_df6b2cb1562eeaf0aedd35e449e9b556.webp 760w,
+               /https/emirenru/github.io/ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https//emirenru/github.io/https/emirenru/github.io/ru/post/choice/images/1_hu3d344bab70c2efb59841d7137a55c0e5_6504_d62366b2233a59cefacaebc706160e88.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -249,10 +249,10 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий помогает разработчикам параллельно работать над проектом, не мешать друг другу и добавлять в master-ветку только качественный код&#34; srcset=&#34;
-               /ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp 400w,
-               /ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_9469b465640bd065635552d2290cc50b.webp 760w,
-               /ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp&#34;
+               /https/emirenru/github.io/ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp 400w,
+               /https/emirenru/github.io/ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_9469b465640bd065635552d2290cc50b.webp 760w,
+               /https/emirenru/github.io/ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https//emirenru/github.io/https/emirenru/github.io/ru/post/choice/images/2_hua10696087e5d022e714be5434b68cc9b_8208_820565f6ce4bd6c97d0e57e3d079b12c.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -283,10 +283,10 @@ optimize(z -&amp;gt; P(z...), z₀, Newton();
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Система контроля версий открывает доступ к веткам других разработчиков&#34; srcset=&#34;
-               /ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp 400w,
-               /ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_6a53570b3ece7b51f7d6094cd0fb2b0a.webp 760w,
-               /ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp&#34;
+               /https/emirenru/github.io/ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp 400w,
+               /https/emirenru/github.io/ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_6a53570b3ece7b51f7d6094cd0fb2b0a.webp 760w,
+               /https/emirenru/github.io/ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_1200x1200_fit_q75_h2_lanczos_2.webp 1200w&#34;
+               src=&#34;https//emirenru/github.io/https/emirenru/github.io/ru/post/choice/images/3_hu07a7d258261d72db22a14f5e291b2f65_6954_95c20176276cb83223f7f98d100cefdc.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

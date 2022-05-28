@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific Posts | Academic</title>
-    <link>https://example.com/ru/category/scientific-posts/</link>
-      <atom:link href="https://example.com/ru/category/scientific-posts/index.xml" rel="self" type="application/rss+xml" />
+    <link>https//emirenru/github.io/ru/category/scientific-posts/</link>
+      <atom:link href="https//emirenru/github.io/ru/category/scientific-posts/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientific Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Mon, 16 May 2022 12:16:19 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/https/emirenru/github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Scientific Posts</title>
-      <link>https://example.com/ru/category/scientific-posts/</link>
+      <link>https//emirenru/github.io/ru/category/scientific-posts/</link>
     </image>
     
     <item>
       <title>Как Писать Отчёты: Руководство</title>
-      <link>https://example.com/ru/post/report-or-presentation/</link>
+      <link>https//emirenru/github.io/ru/post/report-or-presentation/</link>
       <pubDate>Mon, 16 May 2022 12:16:19 +0300</pubDate>
-      <guid>https://example.com/ru/post/report-or-presentation/</guid>
+      <guid>https//emirenru/github.io/ru/post/report-or-presentation/</guid>
       <description>&lt;p&gt;Отчет - это документальный отчет, в котором представлены и/или обобщены факты о конкретном событии, теме или проблеме. Идея заключается в том, что люди, незнакомые с предметом, могут найти все, что им нужно знать, из хорошего отчета.&lt;/p&gt;
 &lt;p&gt;Отчеты позволяют легко ввести кого-то в курс дела, но на самом деле написать отчет совсем не просто. Итак, чтобы помочь вам понять, что делать, ниже мы представляем наш собственный небольшой отчет, посвященный написанию отчетов.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-отчет&#34;&gt;Что такое отчет?&lt;/h2&gt;
